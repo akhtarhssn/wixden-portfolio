@@ -2,6 +2,8 @@
 
 ## [Preview project](https://wixdenportfolio.vercel.app)
 
+![preview img](/preview.png)
+
 ## Project Description
 
 The Personal Portfolio Website is a web development project aimed at creating a landing page for showcasing your skills, projects, and contact information. It has been designed and developed using HTML and CSS to provide an attractive and informative online portfolio.
@@ -51,5 +53,3 @@ In the future, you can enhance your personal portfolio website by adding feature
 ## Conclusion
 
 The Personal Portfolio Website serves as a digital showcase of your skills, projects, and contact information. It provides a professional and visually appealing platform for visitors to learn more about you and your work.
-
-![preview img](/preview.png)
