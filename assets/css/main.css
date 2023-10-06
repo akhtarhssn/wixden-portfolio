@@ -200,6 +200,7 @@ body {
   background-color: var(--color-primary);
   color: var(--color-white);
   font-weight: var(--fw-semibold);
+  border-radius: 10px;
 }
 
 .nav__link {
