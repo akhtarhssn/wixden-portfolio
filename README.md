@@ -41,7 +41,6 @@ The Personal Portfolio Website is a web development project aimed at creating a 
    ```bash
    git clone https://github.com/Wixden/wixden-portfolio.git
    
-   
 - **Open the index.html file in your web browser to view your portfolio.
 
 ## Customization
